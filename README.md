@@ -2,7 +2,8 @@
 
 # 
 
-![Doom Emacs Screenshot](https://thumbs.gfycat.com/ElatedFearfulGalago-size_restricted.gif)
+
+<a href="https://www.youtube.com/watch?v=0sR1rU3gLzQ"><img src="https://thumbs.gfycat.com/ElatedFearfulGalago-size_restricted.gif" alt="Build Status"></a>   
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=K9kbsK2cMt8"><img src="https://github.com/hewhocannotbetamed/sex/blob/develop/50%20percent%20elisp%2050%20percent%20YASsnippets.gif" alt="Build Status"></a>
